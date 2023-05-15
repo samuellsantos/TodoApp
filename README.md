@@ -1,8 +1,8 @@
 # TodoApp
 
-Breve descrição do projeto.
+Esse projeto foi desenvolvido para estudo sobre reedux.
 
-## Tecnlogias
+## Tecnologias
 1. React TS
 2. Tailwindcss
 3. Redux
