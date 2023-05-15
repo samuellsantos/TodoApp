@@ -1,0 +1,20 @@
+/* Estilo da barra de rolagem */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Estilo do rastro da barra de rolagem */
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+/* Estilo do polegar da barra de rolagem */
+::-webkit-scrollbar-thumb {
+  background-color: #181818;
+  border-radius: 4px;
+}
+
+/* Estilo do polegar da barra de rolagem quando hover */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #000;
+}
